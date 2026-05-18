@@ -7,3 +7,6 @@ result-*
 
 # Ignore NixOS interactive test driver history
 **/.nixos-test-history
+
+#Ignore the lock file as this is a template repo
+*.lock
